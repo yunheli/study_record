@@ -14,3 +14,5 @@
 	  4、echo "this is a xx project" > index.html
 	  5、git push origin gh-pages
 	  6、打开浏览器访问username.github.io/xx就存在了
+	  
+	  
