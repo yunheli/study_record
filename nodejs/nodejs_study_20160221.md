@@ -1,7 +1,7 @@
 ### Node.js学习笔记 2016-02-21
 ##### Node.js的安装
      首先安装nvm, nvm 就是 node.js 的版本管理器
-      curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.31.0/install.sh | bash
+     curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.31.0/install.sh | bash
      nvm install 5.0 安装 5.0
      nvm use 5.0   使用 5.0
      nvm alias default 5.0  将5.0设为默认
